@@ -13,4 +13,6 @@ export const HEROES: Hero[] = [
     {id: 20, name: 'Black Widow'},
     {id: 21, name: 'Magneto'},
     {id: 22, name: 'Charles Xavier'},
+    {id: 23, name: 'Beast'},
+
 ]
