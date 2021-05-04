@@ -8,10 +8,10 @@ import { HEROES } from '../mock-heros';
   styleUrls: ['./heroes.component.css']
 })
 export class HeroesComponent implements OnInit {
-  hero: Hero = {
-    id: 1,
-    name: 'Windstorm Joe'
-  }
+  // hero: Hero = {
+  //   id: 1,
+  //   name: 'Windstorm Joe'
+  // }
 
   heroes = HEROES;
 
